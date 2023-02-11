@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g-aufrere-dwj" alt="g-aufrere-dwj" /></a> </p>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://guillaumeaufrere.com](https://guillaumeaufrere.com)
 
-- 📫 How to reach me **guillaumaufrere@gmail.com**
+- 📫 How to reach me **contact@guillaumeaufrere.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
